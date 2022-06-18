@@ -5,7 +5,7 @@
 - 🦄 - A Caju é uma empresa de tecnologia, que busca revolucionar o mercado de benefícios corporativos no Brasil, empoderando as empresas e colaboradores. Acreditamos que cada pessoa é única, e seus benefícios também devem ser.;
 - 💸 - Constantemente temos vagas para:
 - - **Backend**: Scala + DynamoDB + RabbitMQ;
-- - Se alguma fez sentido pra você, [entre em contato conosco](https://www.linkedin.com/in/giovanna-costa-roim/).
+- 🚀 - Fique ligado na nossa [página de carreiras](https://caju.gupy.io/eyJqb2JJZCI6MTc3MTkyMywic291cmNlIjoiZ3VweV9wdWJsaWNfcGFnZSJ9).
 
 ##
 
