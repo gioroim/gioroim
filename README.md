@@ -1,11 +1,11 @@
 # Fala Dev!! Tudo beleza ?
 
 - 👨🏽‍💻 -  Eu me chamo [Giovanna Roim](https://www.linkedin.com/in/giovanna-costa-roim/);
-- 🧡 - Atualmente sou Tech Recruiter na [CajuBenefícios](https://www.linkedin.com/company/cajubeneficios/mycompany/);
+- 🧡 - Atualmente sou Tech Recruiter na [Caju Benefícios](https://www.linkedin.com/company/cajubeneficios/mycompany/);
 - 🦄 - A Caju é uma empresa de tecnologia, que busca revolucionar o mercado de benefícios corporativos no Brasil, empoderando as empresas e colaboradores. Acreditamos que cada pessoa é única, e seus benefícios também devem ser.;
 - 💸 - Constantemente temos vagas para:
 - - **Backend**: Scala + DynamoDB + RabbitMQ;
-- - Se alguma fez sentido pra você, [entre em contato conosco](https://www.linkedin.com/company/querywork).
+- - Se alguma fez sentido pra você, [entre em contato conosco](https://www.linkedin.com/in/giovanna-costa-roim/).
 
 ##
 
