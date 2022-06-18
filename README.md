@@ -1,11 +1,10 @@
 # Fala Dev!! Tudo beleza ?
 
-- 👨🏽‍💻 -  Eu me chamo [Paulo Pelaez](https://www.linkedin.com/in/paulopelaez);
-- 💜 - Atualmente sou Founder & CTO na [QueryWork](https://www.linkedin.com/company/querywork);
-- 🦄 - Somos uma Startup que contrata os melhores talentos techs para empresas referência de mercado;
+- 👨🏽‍💻 -  Eu me chamo [Giovanna Roim](https://www.linkedin.com/in/giovanna-costa-roim/);
+- 🧡 - Atualmente sou Tech Recruiter na [CajuBenefícios](https://www.linkedin.com/company/cajubeneficios/mycompany/);
+- 🦄 - A Caju é uma empresa de tecnologia, que busca revolucionar o mercado de benefícios corporativos no Brasil, empoderando as empresas e colaboradores. Acreditamos que cada pessoa é única, e seus benefícios também devem ser.;
 - 💸 - Constantemente temos vagas para:
-- - **Frontend**: NextJs + ReactJ + ChakraUI + TypeScript;
-- - **Backend**: NestJs + PrismaIO + PostgreSQL;
+- - **Backend**: Scala + DynamoDB + RabbitMQ;
 - - Se alguma fez sentido pra você, [entre em contato conosco](https://www.linkedin.com/company/querywork).
 
 ##
